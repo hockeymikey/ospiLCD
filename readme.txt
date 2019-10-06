@@ -1,7 +1,7 @@
 A fork of stanoba/ospiLCD to add pressure monitoring.  This may be useful where the 
 sprinkler system is supplied from a pump.
 
-I just use the LCD code to tell when the system is on.
+I just use the original code to tell when the system is on.
 
 Setting program to run at startup:
 Hook up pressure sensor to a/d input.  Note that this is 3.3V max.  I used a voltage divider from a sensor with 
